@@ -1,0 +1,841 @@
+@media all and (max-width: 1230px) {
+
+  .footer .menu-main-navigation-container
+  {
+    float: none;
+  }
+
+  .footer #menu-main-navigation
+  {
+    text-align: center;
+  }
+
+  .footer #menu-main-navigation li
+  {
+    float: none;
+    display: inline-block;
+  }
+
+  .footer #menu-main-navigation li a
+  {
+    margin-right: 18px;
+  }
+
+  .footer #menu-main-navigation li:last-child a
+  {
+    margin-right: 0;
+  }
+
+  .footer p.copyright
+  {
+    float: none;
+    padding: 12px 0;
+    margin: 0;
+    text-align: center;
+    clear: both;
+  }
+
+}
+
+@media all and (max-width: 1030px) {
+
+  .nav a
+  {
+    margin-right: 16px;
+  }
+
+  .footer .social
+  {
+    font-size: 32px;
+  }
+
+  .footer .social a
+  {
+    margin-left: 24px;
+  }
+
+  .secondary .featured-item .btn,
+  .columns.three-wide .col .btn
+  {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media all and (max-width: 860px) {
+
+  .header .logo
+  {
+    margin-left: 4px;
+  }
+
+  .nav a
+  {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .nav #menu-main-navigation a span,
+  .footer #menu-main-navigation a span
+  {
+    display: none;
+  }
+
+  .footer .social a
+  {
+    margin-left: 16px;
+  }
+
+  .secondary .featured-items .featured-item
+  {
+    display: block;
+    width: 100%;
+    float: none;
+    clear: both;
+    margin-bottom: 24px;
+  }
+
+  .secondary .featured-items .featured-item:after
+  {
+    display: block;
+    content: '';
+    clear: both;
+  }
+
+  .secondary .featured-item h3
+  {
+    margin-top: 0;
+  }
+
+  .secondary .featured-item img
+  {
+    float: left;
+    width: 36%;
+    margin-top: 6px;
+  }
+
+  .secondary .featured-item-content
+  {
+    float: right;
+    width: 62%;
+  }
+
+  .columns.intro .col,
+  .columns.intro .col.two-thirds, 
+  .columns.intro .col + .col.two-thirds,
+  .columns.intro .col.two-thirds + .col
+  {
+    display: block;
+    width: 100%;
+    margin: 0 0 16px 0;
+  }
+
+  .columns.intro img
+  {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .article-date,
+  .comment-date,
+  .article-author
+  {
+    font-size: 16px;
+  }
+
+}
+
+@media all and (max-width: 768px) {
+
+  h1,
+  h3.comment-reply-title
+  {
+    margin: 8px 0 24px 0;
+  }
+
+  p
+  {
+    margin-bottom: 32px;
+  }
+
+  .header .wrapper
+  {
+    padding-top: 30px;
+    padding-bottom: 19px;
+  }
+
+  .nav a
+  {
+    margin-right: 8px;
+  }
+
+  .tertiary-nav a.btn-subtle
+  {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .tertiary-nav a.btn-subtle,
+  .tertiary-nav a.btn-outline
+  {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 8px;
+  }
+
+  .columns.four-wide .col,
+  .columns.five-wide .col,
+  .columns.six-wide .col
+  {
+    margin-bottom: 24px;
+  }
+
+  .columns.four-wide .col
+  {
+    width: 48%;
+    margin-right: 4%;
+  }
+
+  .columns.five-wide .col,
+  .columns.five-wide .col:nth-child(5n),
+  .columns.six-wide .col
+  {
+    width: 32%;
+    margin-right: 2%;
+  }
+
+  .columns.four-wide .col:nth-child(2n),
+  .columns.four-wide .col:nth-child(4n),
+  .columns.five-wide .col:nth-child(3n),
+  .columns.six-wide .col:nth-child(3n)
+  {
+    margin-right: 0;
+  }
+
+  .feature-cards
+  {
+    margin-bottom: 24px;
+  }
+
+  .article.intro img.featured-image
+  {
+    float: none;
+    width: 100%;
+    margin-bottom: 16px;
+  }
+
+  .article.intro .article-content
+  {
+    float: none;
+    width: auto;
+  }
+
+  /* ===================================== GENERAL CLASSES ===================================== */
+
+  .large-pad
+  {
+    padding-top: 48px;
+    padding-bottom: 48px;
+  }
+
+}
+
+@media all and (max-width: 767px) {
+
+  .columns.two-wide .contact-form.col,
+  .columns.two-wide .contact-info.col
+  {
+    float: none;
+    width: 100%;
+    margin: 0;
+    display: block;
+  }
+
+  .columns.two-wide .contact-info.col
+  {
+    text-align: center;
+    margin-top: 48px;
+  }
+
+  .footer-bar
+  {
+    margin-top: 0;
+  }
+
+  .footer #menu-main-navigation li
+  { 
+    display: block;
+  }
+
+  .footer #menu-main-navigation li a
+  {
+    margin-right: 0;
+    padding: 10px 0;
+  }
+
+  .footer #menu-main-navigation
+  {
+    padding-top: 12px;
+  }
+
+  .contact-info .company-address
+  {
+    margin-bottom: 0;
+  }
+
+  .pagination a
+  {
+    margin: 0 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+}
+
+@media all and (max-width: 660px) {
+
+  body
+  {
+    font-size: 16px;
+  }
+
+  h1,
+  h3.comment-reply-title
+  {
+    font-size: 24px;
+  }
+
+  h2
+  {
+    font-size: 21px;
+    margin: 30px 0 16px 0;
+  }
+
+  h3
+  {
+    font-size: 18px;
+    margin: 16px 0 6px 0;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="phone"],
+  textarea
+  {
+    margin: 0 0 16px 0;
+    font-size: 16px;
+  }
+
+  p
+  {
+    margin: 0 0 24px 0;
+  }
+
+  .header .wrapper
+  {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  .header .logo
+  {
+    padding: 24px 16px 20px 16px;
+    margin: 0 auto;
+    float: none;
+    display: block;
+  }
+
+  .header .tertiary-nav 
+  {
+    float: none;
+    display: block;
+    background: #f2f5f9;
+  }
+
+  .header .tertiary-nav a.btn
+  {
+    padding: 14px 0;
+    float: left;
+    width: 33.33%;
+    border: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 13px;
+    background: transparent;
+    border-radius: 0;
+    color: #282c36;
+  }
+
+  .tertiary-nav .btn.btn-icon span
+  {
+    display: block;
+  }
+
+  .tertiary-nav .btn.btn-icon i
+  {
+    display: none;
+  }
+
+  .header .tertiary-nav a.btn:hover
+  {
+    background: #cad0da;
+    color: #fff;
+  }
+
+  .nav .wrapper
+  {
+    padding: 0;
+  }
+
+  .nav a
+  {
+    margin-right: 0;
+    width: 33.33%;
+    text-align: center;
+    box-sizing: border-box;
+  }
+
+  .nav .current-page-ancestor a
+  {
+    background-color: #fff;
+  }
+
+  .hero .section-title
+  {
+    font-size: 24px;
+    padding: 24px 16px;
+  }
+
+/*
+  .hero .secondary-nav a
+  {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 20px 16px 16px 16px;
+    margin-right: 8px;
+    margin-left: 8px;
+    line-height: 1em;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-bottom: 4px solid transparent;
+  }
+
+*/
+
+  .content ul
+  {
+    margin: 24px 0;
+  }
+
+  .content ul li
+  {
+    padding: 0 0 0 12px;
+  }
+
+  .main
+  {
+    margin-bottom: 24px;
+  }
+
+  .related-links
+  {
+    margin-top: 24px;
+  }
+
+  .related-links-title
+  {
+    font-size: 14px;
+    margin-bottom: 24px;
+  }
+
+  .related-links ul li
+  {
+    width: auto;
+    margin: 0 0 12px 0;
+  }
+
+  .columns .col
+  {
+    float: none;
+    width: auto;
+    margin-bottom: 24px;
+  }
+
+  .columns.two-wide .col,
+  .columns.thirds .col,
+  .columns.thirds .col.two-thirds,
+  .columns.thirds .col + .col.two-thirds,
+  .columns.thirds .col.two-thirds + .col,
+  .columns.three-wide .col,
+  .columns.four-wide .col,
+  .columns.five-wide .col,
+  .columns.six-wide .col,
+  .columns.two-wide .col:nth-child(2n),
+  .columns.thirds .col:nth-child(3n),
+  .columns.three-wide .col:nth-child(3n),
+  .columns.four-wide .col:nth-child(4n),
+  .columns.five-wide .col:nth-child(5n),
+  .columns.six-wide .col:nth-child(6n)
+  {
+    margin-right: 0;
+    margin-left: 0;
+    width: auto;
+  }
+
+  .columns .btn
+  {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .secondary .featured-items .featured-item
+  {
+    margin-bottom: 32px;
+  }
+
+  .secondary .featured-items .featured-item:last-child
+  {
+    margin-bottom: 0;
+  }
+
+  .secondary .featured-item img
+  {
+    float: none;
+    width: 100%;
+  }
+
+  .secondary .featured-item-content
+  {
+    float: none;
+    width: auto;
+  }
+
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form textarea
+  {
+    float: none;
+    width: 100%;
+  }
+
+  .contact-form input[type="text"] + input[type="email"]
+  {
+    float: none;
+  }
+
+  .footer .social
+  {
+    font-size: 28px;
+  }
+
+  .footer .social a
+  {
+    display: inline-block;
+    margin: 0 0 16px 16px;
+  }
+
+  .company-phone-number
+  {
+    font-size: 18px;
+  }
+
+  .company-address
+  {
+    font-size: 14px;
+  }
+
+  .company-address strong
+  {
+    font-size: 16px;
+  }
+
+  /* ===================================== BLOG STYLING ===================================== */
+
+  .entry-content
+  {
+    margin-top: 24px;
+  }
+
+  .pagination
+  {
+    font-size: 18px;
+  }
+
+  .pagination .wrapper
+  {
+    padding-top: 24px;
+    padding-bottom: 72px;
+    position: relative;
+  }
+
+  .pagination a
+  {
+    margin: 0;
+    float: left;
+  }
+
+  .pagination a:last-child
+  {
+    float: right;
+  }
+
+  .pagination span
+  {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 12px;
+    border-top: 1px solid #ddd;
+    color: #8899aa;
+    font-size: 16px;
+  }
+
+  .article.intro
+  {
+    display: block;
+    padding-bottom: 24px;
+    margin-bottom: 24px;
+  }
+
+  .article.intro h2,
+  .article.intro h2 a
+  {
+    font-size: 21px;
+    margin-bottom: 12px;
+  }
+
+  .article-date,
+  .comment-date
+  {
+    font-size: 13px;
+  }
+
+  .article-date
+  {
+    padding: 0;
+  }
+
+  .article-author
+  {
+    font-size: 13px;
+    margin-bottom: 12px;
+  }
+
+  .article-author span
+  {
+    padding: 0;
+  }
+
+
+  .article-author img
+  {
+    display: none;
+  }
+
+  .article-author a
+  {
+    font-style: oblique;
+  }
+
+  .article.intro p
+  {
+    margin-bottom: 16px;
+  }
+
+  .tags
+  {
+    margin-bottom: 16px;
+  }
+
+  .share-bar
+  {
+    margin-bottom: 16px;
+    text-align: center;
+  }
+
+  .comments .wrapper
+  {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+  .comments .main
+  {
+    margin: 16px auto;
+  }
+
+  .comments h1
+  .comments h3.comment-reply-title
+  {
+    margin: 0 0 16px 0;
+  }
+
+  .comment-notes
+  {
+    font-size: 12px;
+    margin-bottom: 16px;
+  }
+
+  .comment
+  {
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+
+  /* ======================================== HOME PAGE ======================================== */
+
+  .card
+  {
+    padding: 16px;
+  }
+
+  .card-title
+  {
+    font-size: 18px;
+  }
+
+  .feature-cards
+  {
+    margin-bottom: 24px;
+  }
+
+  .thirds h3
+  {
+    font-size: 21px;
+  }
+
+  .testimonial-comment
+  {
+    font-size: 18px;
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+
+  /* ====================================== LANDING PAGES ====================================== */
+
+  .hero.landing-page .wrapper
+  {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
+  .hero.landing-page h1
+  {
+    font-size: 21px;
+  }
+
+  .hero.landing-page .form-fields.short
+  {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  .hero.landing-page .form-fields.two-col
+  {
+    padding-bottom: 16px;
+  }
+
+  .hero.landing-page .form-fields.two-col input
+  {
+    float: none;
+    width: 100%;
+    margin-right: 0;
+  }
+
+  /* ===================================== GENERAL CLASSES ===================================== */
+
+  .large-pad
+  {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
+  .large-pad-top
+  {
+    padding-top: 24px;
+    padding-bottom: 8px;
+  }
+
+  ul.link-list li
+  {
+    margin-bottom: 16px;
+  }
+
+}
+
+@media all and (max-width: 569px) {
+
+  .nav a.menu-link,
+  .nav a,
+  .hero .secondary-nav a
+  {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 18px 24px;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .secondary-nav .wrapper
+  {
+    padding: 0;
+  }
+
+  .nav a.menu-link
+  {
+    background: url("../img/menu-icon.png") no-repeat 24px center;
+    padding-left: 60px;
+  }
+
+  .hero .secondary-nav a.menu-link
+  {
+    text-align: center;
+    display: block;
+    position: relative;
+  }
+
+  .hero .secondary-nav a:hover
+  {
+    background: #45ad70;
+  }
+
+  .hero .secondary-nav .current_page_item a
+  {
+    background: #207945;
+    cursor: default;
+  }
+
+  .nav a:hover,
+  .nav .current-page-ancestor a
+  {
+    color: #45ad70;
+    background-color: #fff;
+    border-bottom-color: transparent;
+  }
+
+  .nav a.menu-link:hover
+  {
+    background-color: #eef2f4;
+  }
+
+  a.menu-link:hover
+  {
+    cursor: pointer;
+  }
+
+  .comment-counter
+  {
+    display: none;
+  }
+}
